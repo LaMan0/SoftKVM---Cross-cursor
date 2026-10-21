@@ -9,7 +9,7 @@ Utilisez **une seule souris et un seul clavier** sur plusieurs ordinateurs du m�
 
 1. Installez Python 3.12 ou 3.13 depuis [python.org](https://www.python.org/downloads/) (l'installeur officiel inclut Tk, nécessaire à l'interface).
 2. Décompressez `SoftKVM-mac.zip`.
-3. Double-cliquez sur `dist/SoftKVM/SoftKVM-mac.command`. Au premier lancement, les dépendances sont installées dans `~/.softkvm-venv` (une minute environ).
+3. Double-cliquez sur `SoftKVM-mac.command`. Au premier lancement, les dépendances sont installées dans `~/.softkvm-venv` (une minute environ).
 4. Accordez les deux autorisations demandées par macOS (voir *Autorisations macOS* plus bas), puis relancez.
 
 Si macOS refuse d'ouvrir le fichier (« non autorisé »), ouvrez le Terminal dans le dossier et lancez `chmod +x SoftKVM-mac.command`, puis double-cliquez à nouveau.
